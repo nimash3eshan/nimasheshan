@@ -339,6 +339,7 @@ section .container {
 .img-fluid{
   height: 350px;
   padding-top: 10px;
+  border-radius: 15px;
 }
 .about-me .content h3 {
   font-weight: 700;
